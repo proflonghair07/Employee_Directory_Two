@@ -1,0 +1,20 @@
+* {
+  font-family: "Merriweather", serif;
+}
+
+body {
+  background-image: url(https://images.pexels.com/photos/1101122/pexels-photo-1101122.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260);
+  background-attachment: fixed;
+}
+
+.jumbotron {
+  background-color: #688f8f !important;
+}
+
+.bold {
+  font-weight: bold;
+}
+
+.title {
+  font-size: 40px;
+}

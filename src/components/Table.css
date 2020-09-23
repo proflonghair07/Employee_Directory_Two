@@ -1,0 +1,15 @@
+thead {
+  background-color: #a8b2b5;
+  font-weight: 900;
+  border: 1px solid black;
+  height: 20rem;
+}
+
+td {
+  font-size: 1.25rem;
+  color: black;
+}
+
+tr {
+  border: 1px solid black;
+}
